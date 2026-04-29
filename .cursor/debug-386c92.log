@@ -1,0 +1,2 @@
+{"sessionId":"386c92","runId":"run-1777481250991","hypothesisId":"H1","location":"app/components/DebugRuntimeProbe.tsx:46","message":"Provider capability snapshot on mount","data":{"hasEthereum":true,"isMetaMask":true,"hasRequest":true},"timestamp":1777481250991}
+{"sessionId":"386c92","runId":"run-1777481332515","hypothesisId":"H1","location":"app/components/DebugRuntimeProbe.tsx:46","message":"Provider capability snapshot on mount","data":{"hasEthereum":true,"isMetaMask":true,"hasRequest":true},"timestamp":1777481332516}
